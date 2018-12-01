@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:9:5-48:19
+	android:label
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:13:9-40
+activity#com.ryg.chapter_1.MainActivity
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:17:13-45
+	android:launchMode
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:18:13-42
+	android:configChanges
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:16:13-59
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:15:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:22:27-74
+activity#com.ryg.chapter_1.SecondActivity
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:25:9-30:52
+	android:label
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:28:13-45
+	android:launchMode
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:29:13-42
+	android:configChanges
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:27:13-49
+	android:taskAffinity
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:26:13-60
+activity#com.ryg.chapter_1.ThirdActivity
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:31:9-47:20
+	android:label
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:35:13-44
+	android:configChanges
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:33:13-49
+	android:taskAffinity
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:32:13-59
+intent-filter#action:name:com.ryg.charpter_1.c+action:name:com.ryg.charpter_1.d+category:name:android.intent.category.DEFAULT+category:name:com.ryg.category.c+category:name:com.ryg.category.d+data:mimeType:text/plain
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:37:13-46:29
+action#com.ryg.charpter_1.c
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:38:17-63
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:38:25-60
+action#com.ryg.charpter_1.d
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:39:17-63
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:39:25-60
+category#com.ryg.category.c
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:41:17-63
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:41:27-60
+category#com.ryg.category.d
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:42:17-63
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:42:27-60
+category#android.intent.category.DEFAULT
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:43:27-73
+data
+ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:45:17-55
+	android:mimeType
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml:45:23-52
+uses-sdk
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		ADDED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_1/src/main/AndroidManifest.xml

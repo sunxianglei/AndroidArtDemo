@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_15/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_15/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,56",
+                        "endColumns": "45,48",
+                        "endOffsets": "146,100"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,48",
+                        "endOffsets": "96,145"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_15/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "11,20,25,31,38",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "196,527,727,949,1237",
+                        "endLines": "17,22,29,36,41",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "486,684,941,1229,1402"
+                    },
+                    "to": {
+                        "startLines": "10,17,20,25,31",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "434,725,885,1100,1380",
+                        "endLines": "16,19,24,30,34",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "720,880,1095,1375,1542"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_15/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "5",
+                        "endColumns": "24",
+                        "endOffsets": "170"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endLines": "6",
+                        "endColumns": "24",
+                        "endOffsets": "263"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_15/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,104,157",
+                        "endColumns": "47,52,64",
+                        "endOffsets": "99,152,217"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "268,316,369",
+                        "endColumns": "47,52,64",
+                        "endOffsets": "311,364,429"
+                    }
+                }
+            ]
+        }
+    ]
+}

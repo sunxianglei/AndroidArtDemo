@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_5/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_5/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "11,20,25,31,38",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "196,527,727,949,1237",
+                        "endLines": "17,22,29,36,41",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "486,684,941,1229,1402"
+                    },
+                    "to": {
+                        "startLines": "12,19,22,27,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "543,834,994,1209,1489",
+                        "endLines": "18,21,26,32,36",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "829,989,1204,1484,1651"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_5/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,56",
+                        "endColumns": "45,48",
+                        "endOffsets": "146,100"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,48",
+                        "endOffsets": "96,145"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_5/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,7,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "56,103,270,156,208",
+                        "endColumns": "46,52,60,51,61",
+                        "endOffsets": "98,151,326,203,265"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "268,315,368,429,481",
+                        "endColumns": "46,52,60,51,61",
+                        "endOffsets": "310,363,424,476,538"
+                    }
+                },
+                {
+                    "source": "/Users/sunxianglei/AndroidStudioProjects/AndroidArtDemo/chapter_5/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "5",
+                        "endColumns": "24",
+                        "endOffsets": "170"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endLines": "6",
+                        "endColumns": "24",
+                        "endOffsets": "263"
+                    }
+                }
+            ]
+        }
+    ]
+}
